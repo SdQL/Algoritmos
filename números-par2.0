@@ -5,8 +5,8 @@ Algoritmo Numeros_par
 	leer n
 	
 	Si n mod 2=0 Entonces
-		Escribir "El numero ",n " es primo"
+		Escribir "El numero ",n " es par"
 	SiNo
-		Escribir "El numero ",n " no es primo"
+		Escribir "El numero ",n " no es par"
 	Fin Si
 FinAlgoritmo
