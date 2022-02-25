@@ -1,0 +1,12 @@
+Algoritmo Numeros_par
+	Definir n Como Entero
+	
+	escribir "Digite un numero entero: "
+	leer n
+	
+	Si n mod 2=0 Entonces
+		Escribir "El numero ",n " es primo"
+	SiNo
+		Escribir "El numero ",n " no es primo"
+	Fin Si
+FinAlgoritmo
